@@ -1,0 +1,20 @@
+# Операционные системы
+.DS_Store
+Thumbs.db
+
+# Python файлы
+*.pyc
+*.pyo
+*.session
+__pycache__/
+
+# Файлы конфигурации
+.env
+
+# Лог-файлы
+*.log
+
+# Виртуальные окружения
+venv/
+.env/
+*.env
